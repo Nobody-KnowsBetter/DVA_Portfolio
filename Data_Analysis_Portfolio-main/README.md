@@ -13,12 +13,12 @@ Results-driven professional with hands-on experience in data analytics, full-sta
 
 ## Technical Skills
 
-**Programming Languages:** Python, JavaScript, C, SQL
-**Web Development:** React, Next.js, Node.js, Express.js, HTML, CSS, Tailwind CSS, Bootstrap
-**Databases:** MySQL, MongoDB, NoSQL, Prisma ORM
-**Data Analytics and Visualization:** Tableau, Excel, Google Sheets, NumPy, Pandas
-**Tools and Platforms:** Git, GitHub, Postman, Figma, Linux, Microsoft Office
-**Other:** Generative AI, UI/UX Design, Data Structures, REST APIs
+**Programming Languages:** Python, R, SQL
+**Data Visualization:** Tableau, Power BI, Advanced Excel, Google Looker Studio, Matplotlib, Seaborn
+**Data Analytics:** Pandas, NumPy, Scikit-learn, Statistical Analysis, Data Storytelling
+**Databases:** MySQL, PostgreSQL, MongoDB
+**Tools & Platforms:** Git, GitHub, Google Analytics, Jupyter Notebook, Microsoft Office
+**Other:** Machine Learning Basics, Business Intelligence, Data Cleaning, Dashboard Design
 
 ---
 
